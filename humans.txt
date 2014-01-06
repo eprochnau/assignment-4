@@ -1,0 +1,14 @@
+/*TEAM*/
+Designer/Developer: Tiffany Tse
+Site: http://tiffanytse.ca
+Twitter: @tiffany_tse
+Location: Ottawa, Canada
+
+/*THANKS*/
+Thanks to all the wonderful people that make the internet.
+
+/*SITE*/
+Laste update: 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizer, Jquery, etc.
+Software: Adobe, Livereload, Sublime Text 2
